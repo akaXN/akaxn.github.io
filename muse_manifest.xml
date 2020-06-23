@@ -1,0 +1,652 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dtainc.us" resolutions="1x" timestamp="1592865038794">
+  <folder name="css">
+    <file name="site_global.css" crc="514773041"/>
+    <file name="master_a-master.css" crc="138398728" ref="our-partners:thank-you-for-contacting-dta:index:your-data:what-we-do:connect:the-dta-advantage:who-we-are:locations:the-information-life-cycle:our-people:careers:services:our-clients:contact-us-form"/>
+    <file name="our-partners.css" crc="4172772051" ref="our-partners"/>
+    <file name="thank-you-for-contacting-dta.css" crc="228560855" ref="thank-you-for-contacting-dta"/>
+    <file name="index.css" crc="4076587892" ref="index"/>
+    <file name="your-data.css" crc="4201394043" ref="your-data"/>
+    <file name="what-we-do.css" crc="4091542528" ref="what-we-do"/>
+    <file name="connect.css" crc="516077296" ref="connect"/>
+    <file name="the-dta-advantage.css" crc="3951624376" ref="the-dta-advantage"/>
+    <file name="who-we-are.css" crc="237411046" ref="who-we-are"/>
+    <file name="locations.css" crc="3963322724" ref="locations"/>
+    <file name="the-information-life-cycle.css" crc="3967463227" ref="the-information-life-cycle"/>
+    <file name="our-people.css" crc="297723187" ref="our-people"/>
+    <file name="careers.css" crc="484233160" ref="careers"/>
+    <file name="services.css" crc="68596141" ref="services"/>
+    <file name="our-clients.css" crc="347911866" ref="our-clients"/>
+    <file name="contact-us-form.css" crc="296706684" ref="contact-us-form"/>
+    <file name="iefonts_contact-us-form.css" crc="3999468557" ref="contact-us-form"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:what-we-do:who-we-are:our-people:our-partners:your-data:connect:locations:careers:contact-us-form:the-dta-advantage:services"/>
+    <file name="webpro.js" crc="3856315280" ref="index:who-we-are:our-people:our-clients:connect:locations:contact-us-form"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:who-we-are:our-people:our-clients:connect:locations"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:who-we-are:our-people:our-clients:connect:locations"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:who-we-are:our-people:our-clients:connect:locations"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services"/>
+    <file name="form_check.php" crc="4108222811" ref="contact-us-form"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact-us-form"/>
+    <file name="form_process.php" crc="260214869" ref="contact-us-form"/>
+    <file name="form-u5285.php" crc="3815912516" ref="contact-us-form"/>
+  </folder>
+  <folder name="images">
+    <file name="data management squares background 1.png" crc="3873017819" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="data management squares background 2.png" crc="69026671" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="data management squares background 3.png" crc="3910977892" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="data management squares background 4.png" crc="4204081765" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="data management squares background 5.png" crc="94377683" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="data management squares background 6.png" crc="3873913207" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="dta logo.png" crc="165268069" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:what-we-do:who-we-are:your-data:connect:locations:services"/>
+    <file name="homepage serverroom (hi).jpg" crc="3982092510" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="websitebuildingconcept yellow (hi).jpg" crc="31857749" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="data security icon.jpg" crc="4263895855" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="data management around the clock.jpg" crc="3912954564" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="data services icon.jpg" crc="452284387" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="data management around the clock-u6882-fr.jpg" crc="4277451629" ref="index"/>
+    <file name="data services icon-u6876-fr.jpg" crc="4065533474" ref="index"/>
+    <file name="data security icon-u6888-fr.jpg" crc="196567748" ref="index"/>
+    <file name="computerkeyboardconcept.jpg" crc="4214367326" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acme packet-crop-u12891.png" crc="4063671056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arbor networks-crop-u12899.png" crc="3971987789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beehive-crop-u12911.png" crc="55538364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bladelogic-crop-u12913.png" crc="203315807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brooks-crop-u12903.png" crc="27549941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="computer associates-crop-u12889.png" crc="4086917210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concervation services group-crop-u12909.png" crc="3760279209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fidelity-crop-u12897.png" crc="52369908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="formation systems-crop-u12915.png" crc="3851199451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="investors bank - trust-crop-u12917.png" crc="329667925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="legal seafoods-crop-u12907.png" crc="148597038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lincoln peak-crop-u12919.png" crc="4257699571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pega-crop-u12905.png" crc="4206562248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sandia-crop-u12887.png" crc="4291755070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siemens-crop-u12895.png" crc="198555187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="starwood-crop-u12893.png" crc="264742262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="symphony-crop-u12885.png" crc="104304628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tibersoft-crop-u12901.png" crc="385814141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:who-we-are"/>
+    <file name="dta-logo-reverse.svg" crc="4016356957" seo="true" ref="index:what-we-do:who-we-are:our-people:our-clients:our-partners:your-data:connect:locations:careers:contact-us-form:thank-you-for-contacting-dta:the-dta-advantage:the-information-life-cycle:services">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="thank-you-for-contacting-dta" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="contact-us-form" alt=""/>
+      <caption webpage="our-clients" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="our-partners" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="dta logo reverse_poster_.png" crc="526686276" ref="index"/>
+    <file name="what we do icon analytics114x114.png" crc="3821954516" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="what we do icon consulting114x114.png" crc="3878702694" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="what we do icon data assessment114x114.png" crc="4291855985" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="what we do icon development114x114.png" crc="3889986789" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="what we do icon security114x114.png" crc="4246483666" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="what we do icon administration.png" crc="4293409749" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="what we do icon cloud deployment.jpg" crc="514559990" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="dta cube hand 1.jpg" crc="103122220" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="data glasscubes 2.jpg" crc="4110051131" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="information life cycle loading-u13266.png" crc="4163784007" ref="what-we-do"/>
+    <file name="pasted-svg-152965x118.svg" crc="494821129" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="pasted svg 152965x118_poster_.png" crc="92884023" ref="what-we-do"/>
+    <file name="information life cycle storage-u13287.png" crc="3783160402" ref="what-we-do"/>
+    <file name="information life cycle management-u13273.png" crc="251501407" ref="what-we-do"/>
+    <file name="information life cycle archiving-u13258.png" crc="3830159982" ref="what-we-do"/>
+    <file name="information life cycle purging129x129.jpg" crc="4250800143" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="pasted-svg-148201x22.svg" crc="4207874123" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="pasted svg 148201x22_poster_.png" crc="59585696" ref="what-we-do"/>
+    <file name="dta advantage icon customized.png" crc="42583704" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta advantage icon innovative offerings.png" crc="4266929289" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta advantage icon knowledge powerhouse.jpg" crc="29003672" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta advantage icon on call support consistent results.png" crc="257145706" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta advantage icon cost effective.png" crc="194527471" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta advantage icon on call support.png" crc="22326613" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta advantage icon virtual services.png" crc="424937166" seo="true" ref="who-we-are:your-data:the-dta-advantage">
+      <caption webpage="your-data" alt=""/>
+      <caption webpage="the-dta-advantage" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="data cubes 1.jpg" crc="3787947341" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="acme packet-crop-u9254.png" crc="3770671041" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="arbor networks-crop-u9260.png" crc="240423349" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="beehive-crop-u9278.png" crc="534651406" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="bladelogic-crop-u9282.png" crc="114420439" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="brooks-crop-u9264.png" crc="3805134515" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="computer associates-crop-u9252.png" crc="469385975" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="concervation services group-crop-u9270.png" crc="4229889957" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="fidelity-crop-u9280.png" crc="4060165618" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="formation systems-crop-u9268.png" crc="77281323" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="investors bank - trust-crop-u9272.png" crc="205985548" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="legal seafoods-crop-u9258.png" crc="4269798566" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="lincoln peak-crop-u9276.png" crc="454881316" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pega-crop-u9274.png" crc="4150789066" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="sandia-crop-u9256.png" crc="3957978892" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="siemens-crop-u9266.png" crc="522865852" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="starwood-crop-u9286.png" crc="4240624109" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="symphony-crop-u9262.png" crc="378864303" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="tibersoft-crop-u9284.png" crc="4038687472" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="acme packet-crop-u7728.png" crc="3770671041" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="arbor networks-crop-u7898.png" crc="240423349" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="beehive-crop-u7924.png" crc="534651406" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="bladelogic-crop-u7950.png" crc="114420439" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="brooks-crop-u7976.png" crc="3805134515" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="computer associates-crop-u8002.png" crc="469385975" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="concervation services group-crop-u8028.png" crc="4229889957" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="fidelity-crop-u8054.png" crc="4060165618" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="formation systems-crop-u8080.png" crc="77281323" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="investors bank - trust-crop-u8106.png" crc="205985548" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="legal seafoods-crop-u8132.png" crc="4269798566" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="lincoln peak-crop-u8158.png" crc="454881316" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pega-crop-u8184.png" crc="4150789066" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="sandia-crop-u8210.png" crc="3957978892" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="siemens-crop-u8236.png" crc="522865852" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="starwood-crop-u8262.png" crc="4240624109" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="symphony-crop-u8288.png" crc="378864303" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="tibersoft-crop-u8314.png" crc="4038687472" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="dta data team leadership.jpg" crc="4190314996" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="sanjay tikku-u18872-fr.jpg" crc="338399564" ref="our-people"/>
+    <file name="shawn tozeski.jpg" crc="259128530" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="shawn tozeski-u19001-a-fr.jpg" crc="259128530" ref="our-people"/>
+    <file name="james franco.jpg" crc="3796199991" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="neeraj yadav.jpg" crc="4221104373" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="neeraj yadav2.jpg" crc="4221104373" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="sanjeev singh.jpg" crc="228785589" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="sanjeev singh2.jpg" crc="228785589" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="serverroom yellow 2.jpg" crc="109563850" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="james franco-u20078-fr.jpg" crc="3796199991" ref="our-people"/>
+    <file name="neeraj yadav3.jpg" crc="4221104373" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="sanjeev singh3.jpg" crc="228785589" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="dta data partners.jpg" crc="452184425" ref="our-partners">
+      <caption webpage="our-partners" alt=""/>
+    </file>
+    <file name="microsoft.png" crc="371078709" seo="true" ref="our-partners">
+      <caption webpage="our-partners" alt=""/>
+    </file>
+    <file name="oracle.jpg" crc="398394340" seo="true" ref="our-partners">
+      <caption webpage="our-partners" alt=""/>
+    </file>
+    <file name="dta your data header.jpg" crc="4209744723" ref="your-data">
+      <caption webpage="your-data" alt=""/>
+    </file>
+    <file name="pasted-svg-148201x222.svg" crc="4207874123" seo="true" ref="your-data">
+      <caption webpage="your-data" alt=""/>
+    </file>
+    <file name="pasted svg 148201x22_poster_2.png" crc="4108015527" ref="your-data"/>
+    <file name="serverroom yellow.jpg" crc="532646994" ref="your-data">
+      <caption webpage="your-data" alt=""/>
+    </file>
+    <file name="dta global 2.jpg" crc="3940901693" ref="connect">
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="dta contact usa.png" crc="3875733368" seo="true" ref="connect">
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="dta contact india.png" crc="4112781352" seo="true" ref="connect">
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="dta contact hotline.png" crc="4090561421" seo="true" ref="connect">
+      <caption webpage="connect" alt=""/>
+    </file>
+    <file name="dta location map global cube.jpg" crc="175259195" ref="locations">
+      <caption webpage="locations" alt=""/>
+    </file>
+    <file name="teamwork careers.jpg" crc="290365545" ref="careers">
+      <caption webpage="careers" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="contact-us-form">
+      <caption webpage="contact-us-form" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="contact-us-form">
+      <caption webpage="contact-us-form" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="contact-us-form">
+      <caption webpage="contact-us-form" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="contact-us-form">
+      <caption webpage="contact-us-form" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="contact-us-form">
+      <caption webpage="contact-us-form" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="contact-us-form">
+      <caption webpage="contact-us-form" alt=""/>
+    </file>
+    <file name="yellowcube.jpg" crc="54477310" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon customized2.png" crc="4004000734" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon cost effective2.png" crc="299043577" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon on call support2.png" crc="381470586" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon virtual services2.png" crc="4074816747" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon knowledge powerhouse2.jpg" crc="332904616" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon innovative offerings2.png" crc="531764853" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="dta advantage icon on call support consistent results2.png" crc="121096455" seo="true" ref="the-dta-advantage">
+      <caption webpage="the-dta-advantage" alt=""/>
+    </file>
+    <file name="information life cycle archiving100x99.png" crc="338658181" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle loading100x99.png" crc="273700029" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle management100x99.png" crc="20766038" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle purging99x99.jpg" crc="4042797651" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle storage100x99.png" crc="3823711608" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="pasted-svg-17825x13.svg" crc="530565628" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="pasted svg 17825x13_poster_.png" crc="413021540" ref="the-information-life-cycle"/>
+    <file name="pasted-svg-118908x115.svg" crc="483520410" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="pasted svg 118908x115_poster_.png" crc="265049479" ref="the-information-life-cycle"/>
+    <file name="information life cycle loading.png" crc="4290242416" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle storage.png" crc="4165771793" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle management.png" crc="196687589" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle archiving.png" crc="214776589" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="information life cycle purging.jpg" crc="332743510" seo="true" ref="the-information-life-cycle">
+      <caption webpage="the-information-life-cycle" alt=""/>
+    </file>
+    <file name="data services cubes 1.jpg" crc="3780419445" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon data assessment.png" crc="4249308676" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon consulting.png" crc="3878702694" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon development.png" crc="516673098" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon analytics.png" crc="3821954516" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon cloud deployment2.jpg" crc="4275428352" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon administration2.png" crc="3789119347" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="what we do icon security.png" crc="4053752779" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="58251783" seo="true" mt="1474051286728" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="392793101" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="what-we-do.html" crc="413397270" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="who-we-are.html" crc="390015277" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="our-people.html" crc="3905154637" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="our-clients.html" crc="496998042" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="our-partners.html" crc="146218494" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="your-data.html" crc="187340621" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="connect.html" crc="4264050648" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="locations.html" crc="4229594312" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="careers.html" crc="15878755" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="contact-us-form.html" crc="193798253" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="thank-you-for-contacting-dta.html" crc="94187989" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="the-dta-advantage.html" crc="4223363010" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="the-information-life-cycle.html" crc="381072391" seo="true" mt="1592862798581" redirect="true"/>
+  <file name="services.html" crc="4076214017" seo="true" mt="1592862798581" redirect="true"/>
+</manifest>
